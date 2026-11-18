@@ -1,6 +1,6 @@
 cask "tern" do
-  version "0.1.3"
-  sha256 "6c3fddd6b323e63fedf099f94f78311f72e0b5532da9ba3a4b1e15c3601b5443"
+  version "0.1.4"
+  sha256 "f0fc781e29a216ca1254a23ee53f5a2b2e32075a6f60c1d08cb1fc4b2bba98bf"
 
   url "https://github.com/your-moon/tern/releases/download/v#{version}/tern-#{version}-macos-arm64.zip"
   name "tern"
